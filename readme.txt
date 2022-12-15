@@ -1,0 +1,1 @@
+This site is an attempt to create a portal that can be used to keep track of family money.
